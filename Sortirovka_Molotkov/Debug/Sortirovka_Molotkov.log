@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\student\documents\github\molotkovlab1\sortirovka_molotkov\source.cpp(50): warning C4101: 'p': unreferenced local variable
+c:\users\student\documents\github\molotkovlab1\sortirovka_molotkov\source.cpp(51): warning C4101: 'j': unreferenced local variable
+c:\users\student\documents\github\molotkovlab1\sortirovka_molotkov\source.cpp(51): warning C4101: 'i': unreferenced local variable
+  Sortirovka_Molotkov.vcxproj -> C:\Users\Student\Documents\GitHub\MolotkovLAB1\Sortirovka_Molotkov\Debug\Sortirovka_Molotkov.exe
+  Sortirovka_Molotkov.vcxproj -> C:\Users\Student\Documents\GitHub\MolotkovLAB1\Sortirovka_Molotkov\Debug\Sortirovka_Molotkov.pdb (Partial PDB)
